@@ -1,6 +1,11 @@
+package Searching;
+
 /*
 Binary Search Classic
 https://leetcode.com/problems/binary-search/
+
+ Time : O(log n)
+ Space: O(1)
  */
 public class BinarySearch {
     public static int search(int[] nums, int target) {
