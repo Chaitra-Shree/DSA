@@ -1,7 +1,7 @@
 package Searching;
 
 /*
-Binary Search Classic
+Binary Search Classic - Iterative
 https://leetcode.com/problems/binary-search/
 
  Time : O(log n)
